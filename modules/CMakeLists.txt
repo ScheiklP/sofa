@@ -48,3 +48,6 @@ sofa_add_plugin(SofaMiscSolver SofaMiscSolver ON)
 sofa_add_plugin(SofaMiscFem SofaMiscFem ON)
 sofa_add_plugin(SofaMiscMapping SofaMiscMapping ON)
 sofa_add_plugin(SofaMiscCollision SofaMiscCollision ON)
+
+# Headless
+sofa_add_plugin(SofaHeadlessGui SofaHeadlessGui ON)
